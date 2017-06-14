@@ -26,6 +26,7 @@ namespace GITTest
             InitializeComponent();
             testClass = new GITTestLib.GITTestLibClass();
             testClass.Init();
+            // Comment added in vasgit project
         }
     }
 }
