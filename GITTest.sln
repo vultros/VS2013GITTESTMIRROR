@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITTest", "GITTest\GITTest.csproj", "{CBFA0207-82B0-4D60-B242-844480857C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITTestLib", "GITTestLib\GITTestLib.csproj", "{3837EB38-6FF3-41C2-A998-42B3A72F6EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFA0207-82B0-4D60-B242-844480857C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFA0207-82B0-4D60-B242-844480857C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFA0207-82B0-4D60-B242-844480857C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFA0207-82B0-4D60-B242-844480857C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3837EB38-6FF3-41C2-A998-42B3A72F6EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3837EB38-6FF3-41C2-A998-42B3A72F6EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3837EB38-6FF3-41C2-A998-42B3A72F6EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3837EB38-6FF3-41C2-A998-42B3A72F6EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
