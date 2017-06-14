@@ -27,6 +27,7 @@ namespace GITTest
             testClass = new GITTestLib.GITTestLibClass();
             testClass.Init();
             // Comment added in vasgit project
+            // Commet added on github project
         }
     }
 }
